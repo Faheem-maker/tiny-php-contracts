@@ -6,6 +6,7 @@
         "library",
         "contracts"
     ],
+    "version": "1.0.1",
     "description": "Base contracts/interfaces for all extensions and core package",
     "license": "MIT",
     "authors": [
