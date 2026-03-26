@@ -1,0 +1,2 @@
+# Tiny PHP (Contracts)
+This package provides a set of contracts (interfaces) that would later be used by most extensions. Please note that this is still a work in progress, and several changes might be made before the initial prototype of our extension system is available.
