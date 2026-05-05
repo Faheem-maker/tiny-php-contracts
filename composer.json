@@ -1,5 +1,5 @@
 {
-    "name": "tinyframework/contracts",
+    "name": "bolt-php/contracts",
     "type": "library",
     "keywords": [
         "php",
