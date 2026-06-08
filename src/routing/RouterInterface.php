@@ -24,6 +24,7 @@ interface RouterInterface
     public function resolveName($name, $params = []);
 
     public function rename($from, $to);
+    public function name($name, Route $route);
 
     public function mount(string $prefix, RouterInterface $router);
 
