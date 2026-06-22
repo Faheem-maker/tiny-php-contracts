@@ -40,4 +40,6 @@ interface ApplicationInterface
      * @return void
      */
     public function registerResources(string $namespace, string $dir): void;
+    
+    public function registerMigrations(string $namespace, string $dir): void;
 }
