@@ -24,6 +24,5 @@
             "framework\\contracts\\": "src/"
         }
     },
-    "minimum-stability": "dev",
     "prefer-stable": true
 }
